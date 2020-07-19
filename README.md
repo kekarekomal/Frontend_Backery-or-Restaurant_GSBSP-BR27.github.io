@@ -11,7 +11,7 @@ Bootstrap<br>
 Javascript <br>
 
 
-<img src="website"></img>
+<img src="website.png"></img>
 
 This website contains following features<br>
 Home<br>About US<br>Team<br>Gallery<br>Reservation<br>Contact US<br>Blog<br> 
