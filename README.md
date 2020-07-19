@@ -10,8 +10,7 @@ Css3<br>
 Bootstrap<br>
 Javascript <br>
 
-
-<img src="website.png"></img>
+<img src="website.PNG"></img>
 
 This website contains following features<br>
 Home<br>About US<br>Team<br>Gallery<br>Reservation<br>Contact US<br>Blog<br> 
